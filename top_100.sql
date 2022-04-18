@@ -1,4 +1,4 @@
-\c marlen 
+\c jovejar 
 DROP DATABASE peliculas;
 CREATE DATABASE peliculas;
 \c peliculas
